@@ -1,0 +1,34 @@
+p{
+    font-size: 15px;
+}
+body{
+    text-align: center;
+    margin-top: 5%;
+    background-color:hsl(212, 45%, 89%)
+    
+}
+.main-container{
+    background-color: white;
+    display: inline-block;
+    padding: 18px 20px;
+    border-radius: 9px;
+    width: 250px;
+    text-align: center;
+}    
+.para{
+    display: inline-block;
+    text-align: center;
+}
+img{
+    width: 250px;
+    border-radius: 9px;
+}
+.title{
+    
+   font-weight: 700;
+   color: hsl(218, 44%, 22%);
+}
+.ola{
+    color:  hsl(212, 45%, 89%);
+    font-weight: 400;
+}
